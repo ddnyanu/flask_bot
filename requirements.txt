@@ -5,3 +5,4 @@ flask
 python-docx
 tiktoken
 markdown2
+gunicorn
